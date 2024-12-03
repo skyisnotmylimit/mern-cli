@@ -1,6 +1,6 @@
 {
   "name": "mern-cmd",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
     "bin": {
       "mern-cmd": "./index.js"

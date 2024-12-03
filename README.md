@@ -36,7 +36,7 @@ After installation, use the following commands to generate various boilerplate f
 ### Generate an Express Project
 
 ```bash
-mern-cmd react <projectName>
+mern-cmd express <projectName>
 ```
 Creates a new Express app in the specified `<projectName>` directory.
 
